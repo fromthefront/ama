@@ -20,11 +20,12 @@ In order to optimize readability and SEO, administrators might modify or revise 
 
 However, if you do not feel comfortable about this, leave a message and it will not be modified (and any change for this purpose will be reverted).
 
-### Links
+### FTF Links
 
 - [Conference](http://fromthefront.it)
 - [Twitter](http://twitter.com/fromthefront)
-- [Vimeos](http://vimeo.com/fromthefront)
+- [Vimeo](http://vimeo.com/fromthefront)
 
+### AMAs Links
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
