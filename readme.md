@@ -22,5 +22,9 @@ However, if you do not feel comfortable about this, leave a message and it will 
 
 ### Links
 
+- [Conference](http://fromthefront.it)
+- [Twitter](http://twitter.com/fromthefront)
+- [Vimeos](http://vimeo.com/fromthefront)
+
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
