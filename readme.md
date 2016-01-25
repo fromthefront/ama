@@ -1,23 +1,26 @@
-# Ask me anything!
+# Ask us anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+From the Front is the no-profit organisation taking care of the homonymous [conference series](http://lanyrd.com/series/fromthefront/).
 
-I get a lot of questions by email. This way anyone can read the answer!
+Feel free to [ask](../../issues/new) anything, and we mean it: conference related, team related, personal stuff. whatever.
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
--
+#### [Ask a new question](../../issues/new)
+#### [Read the answers](../../issues?q=is%3Aissue+is%3Aclosed)
 
 ### Guidelines
 
-- Ensure your question hasn't already been answered.
+- Ensure your question hasn't already been [answered](../../issues?q=is%3Aissue+is%3Aclosed) or [asked](../../issues).
 - Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
+- Make sure you are nice to each other ([Long version](code-of-conduct.md))
+
+## Optimization
+
+We hope all answers can help other people on related or identical questions in the future. 
+In order to optimize readability and SEO, administrators might modify or revise closed issues.
+
+However, if you do not feel comfortable about this, leave a message and it will not be modified (and any change for this purpose will be reverted).
 
 ### Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
